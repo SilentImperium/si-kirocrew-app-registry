@@ -1,0 +1,14 @@
+[
+  {
+    "name": "si-local-inferencing",
+    "gitUrl": "https://github.com/SilentImperium/si-local-inferencing",
+    "repo": "https://github.com/SilentImperium/si-local-inferencing",
+    "branch": "main"
+  },
+  {
+    "name": "zens-natural-voice-responses",
+    "gitUrl": "https://github.com/SilentImperium/zens-natural-voice-responses",
+    "repo": "https://github.com/SilentImperium/zens-natural-voice-responses",
+    "branch": "main"
+  }
+]
