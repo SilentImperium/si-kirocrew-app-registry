@@ -1,14 +1,14 @@
 [
   {
-    "name": "si-crewapp-LocalInferenceSwitch",
-    "gitUrl": "https://github.com/SilentImperium/si-crewapp-LocalInferenceSwitch",
-    "repo": "https://github.com/SilentImperium/si-crewapp-LocalInferenceSwitch",
+    "name": "si-crewapp-localinferenceswitch",
+    "gitUrl": "https://github.com/SilentImperium/si-crewapp-localinferenceswitch",
+    "repo": "https://github.com/SilentImperium/si-crewapp-localinferenceswitch",
     "branch": "main"
   },
   {
-    "name": "si-crewapp-AIDLC",
-    "gitUrl": "https://github.com/SilentImperium/si-crewapp-AIDLC",
-    "repo": "https://github.com/SilentImperium/si-crewapp-AIDLC",
+    "name": "si-crewapp-aidlc",
+    "gitUrl": "https://github.com/SilentImperium/si-crewapp-aidlc",
+    "repo": "https://github.com/SilentImperium/si-crewapp-aidlc",
     "branch": "main"
   }
 ]
