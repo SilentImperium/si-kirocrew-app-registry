@@ -10,5 +10,11 @@
     "gitUrl": "https://github.com/SilentImperium/zens-natural-voice-responses",
     "repo": "https://github.com/SilentImperium/zens-natural-voice-responses",
     "branch": "main"
+  },
+  {
+    "name": "zens-aidlc",
+    "gitUrl": "https://github.com/SilentImperium/zens-aidlc",
+    "repo": "https://github.com/SilentImperium/zens-aidlc",
+    "branch": "main"
   }
 ]
